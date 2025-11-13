@@ -47,7 +47,7 @@ Disfruto aprendiendo nuevas tecnologías y aplicando la creatividad en cada lín
   <a href="mailto:gabrielpedreros@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/gabriel-ignacio-pedreros-089365357 target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-ignacio-pedreros-089365357/"_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
