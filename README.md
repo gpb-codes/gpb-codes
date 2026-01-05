@@ -17,7 +17,7 @@ Disfruto aprendiendo nuevas tecnologías y aplicando la creatividad en cada lín
 
 ###  Tecnologías y herramientas que manejo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,angular,postgresql,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,angular,postgresql,mysql,tailwindcss" alt="Tech Stack" />
 </p>
 
 ---
