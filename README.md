@@ -25,11 +25,11 @@ Busco crear proyectos funcionales, visualmente atractivos y con propósito real.
 Me motiva la idea de construir soluciones que inspiren — porque el código también puede ser arte.
 ```
 
-- 🧠 Siempre con hambre de conocimiento y en constante aprendizaje
-- 🌐 Enfocado en el desarrollo **Full Stack** — front to back
-- 🎨 Me gusta unir **lógica, estética y creatividad** en cada proyecto
-- 🚀 Motivado por construir soluciones que generen impacto real
-- 💡 Creo que la tecnología y la cultura son inseparables
+-  Siempre con hambre de conocimiento y en constante aprendizaje
+- Enfocado en el desarrollo **Full Stack** — front to back
+-  Me gusta unir **lógica, estética y creatividad** en cada proyecto
+-  Motivado por construir soluciones que generen impacto real
+- Creo que la tecnología y la cultura son inseparables
 
 ---
 
@@ -57,7 +57,7 @@ Me motiva la idea de construir soluciones que inspiren — porque el código tam
 
 ## `> git log --learning`
 
-> 🔥 **Angular** — Construyendo interfaces modernas y dinámicas: componentes, RxJS y arquitectura escalable. El framework que estoy dominando este ciclo.
+> **Angular** — Construyendo interfaces modernas y dinámicas: componentes, RxJS y arquitectura escalable. El framework que estoy dominando este ciclo.
 
 ---
 
