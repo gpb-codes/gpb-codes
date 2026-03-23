@@ -5,7 +5,7 @@
 # Gabriel Pedreros
 ### `{ Tecnico en Programacion · Ingeniero Informatico en Formacion · Santiago, Chile }`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez...;El+c%C3%B3digo+tambi%C3%A9n+puede+ser+arte.;Apasionado+por+tecnolog%C3%ADa+%2B+creatividad.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9C1BE3&center=true&vCenter=true&width=500&lines=Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez...;El+c%C3%B3digo+tambi%C3%A9n+puede+ser+arte.;Apasionado+por+tecnolog%C3%ADa+%2B+creatividad.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -95,6 +95,6 @@ Me motiva la idea de construir soluciones que inspiren — porque el código tam
 
 *✨ "Construyendo el futuro, una línea de código a la vez." ✨*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9C1BE3&height=80&section=footer" width="100%"/>
 
 </div>
