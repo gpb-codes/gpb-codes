@@ -65,14 +65,10 @@ Me motiva la idea de construir soluciones que inspiren — porque el código tam
 ## `> stats --github`
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gpb-codes&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=9C1BE3&border_color=30363d&bg_color=9C1BE3&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpb-codes&layout=compact&theme=github_dark&title_color=FFD700&border_color=30363d&bg_color=0d1117&hide_border=false" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gpb-codes&show_icons=true&theme=github_dark&title_color=A855F7&icon_color=7C3AED&border_color=3B1F6B&bg_color=0D0D14&hide_border=false&rank_icon=github&text_color=D8B4FE" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpb-codes&layout=compact&theme=github_dark&title_color=A855F7&border_color=3B1F6B&bg_color=0D0D14&hide_border=false&text_color=D8B4FE" />
 <br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gpb-codes&theme=github-dark-blue&hide_border=false&border=30363D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=gpb-codes&theme=github-dark-blue&hide_border=false&border=3B1F6B&background=0D0D14&stroke=3B1F6B&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280&currStreakNum=D8B4FE&sideNums=D8B4FE)
 </div>
 
 ---
