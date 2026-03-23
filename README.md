@@ -20,7 +20,8 @@
 ## `> whoami`
 
 ```txt
-Estudiante de programación apasionado por la intersección entre tecnología y cultura.
+Tecnico en Programacion y futuro ingeniero informatico
+ apasionado por la intersección entre tecnología y cultura.
 Busco crear proyectos funcionales, visualmente atractivos y con propósito real.
 Me motiva la idea de construir soluciones que inspiren — porque el código también puede ser arte.
 ```
