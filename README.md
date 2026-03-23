@@ -66,7 +66,7 @@ Me motiva la idea de construir soluciones que inspiren — porque el código tam
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gpb-codes&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=FFD700&border_color=30363d&bg_color=0d1117&hide_border=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gpb-codes&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=9C1BE3&border_color=30363d&bg_color=9C1BE3&hide_border=false&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpb-codes&layout=compact&theme=github_dark&title_color=FFD700&border_color=30363d&bg_color=0d1117&hide_border=false" />
 
 <br/>
