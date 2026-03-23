@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9C1BE3&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 # Gabriel Pedreros
@@ -26,11 +25,11 @@ Busco crear proyectos funcionales, visualmente atractivos y con propósito real.
 Me motiva la idea de construir soluciones que inspiren — porque el código también puede ser arte.
 ```
 
--  Siempre con hambre de conocimiento y en constante aprendizaje
--  Enfocado en el desarrollo **Full Stack** — front to back
--  Me gusta unir **lógica, estética y creatividad** en cada proyecto
--  Motivado por construir soluciones que generen impacto real
--  Creo que la tecnología y la cultura son inseparables
+- 🧠 Siempre con hambre de conocimiento y en constante aprendizaje
+- 🌐 Enfocado en el desarrollo **Full Stack** — front to back
+- 🎨 Me gusta unir **lógica, estética y creatividad** en cada proyecto
+- 🚀 Motivado por construir soluciones que generen impacto real
+- 💡 Creo que la tecnología y la cultura son inseparables
 
 ---
 
@@ -58,17 +57,21 @@ Me motiva la idea de construir soluciones que inspiren — porque el código tam
 
 ## `> git log --learning`
 
->  **Angular** — Construyendo interfaces modernas y dinámicas: componentes, RxJS y arquitectura escalable. El framework que estoy dominando este ciclo.
+> 🔥 **Angular** — Construyendo interfaces modernas y dinámicas: componentes, RxJS y arquitectura escalable. El framework que estoy dominando este ciclo.
 
 ---
 
 ## `> stats --github`
 
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=gpb-codes&show_icons=true&theme=github_dark&title_color=A855F7&icon_color=7C3AED&border_color=3B1F6B&bg_color=0D0D14&hide_border=false&rank_icon=github&text_color=D8B4FE" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpb-codes&layout=compact&theme=github_dark&title_color=A855F7&border_color=3B1F6B&bg_color=0D0D14&hide_border=false&text_color=D8B4FE" />
+
 <br/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=gpb-codes&theme=github-dark-blue&hide_border=false&border=3B1F6B&background=0D0D14&stroke=3B1F6B&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280&currStreakNum=D8B4FE&sideNums=D8B4FE)
+
 </div>
 
 ---
@@ -79,9 +82,9 @@ Me motiva la idea de construir soluciones que inspiren — porque el código tam
 
 | Plataforma | Link |
 |---|---|
-| **GitHub** | [@gpb-codes](https://github.com/gpb-codes) |
-| **LinkedIn** | [gabriel-ignacio-pedreros](https://www.linkedin.com/in/gabriel-ignacio-pedreros-089365357/) |
-| **Email** | [gabrielpedreros@email.com](mailto:gabrielpedreros@email.com) |
+|  **GitHub** | [@gpb-codes](https://github.com/gpb-codes) |
+|  **LinkedIn** | [gabriel-ignacio-pedreros](https://www.linkedin.com/in/gabriel-ignacio-pedreros-089365357/) |
+|  **Email** | [gabrielpedreros@email.com](mailto:gabrielpedreros@email.com) |
 
 </div>
 
