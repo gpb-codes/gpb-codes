@@ -17,16 +17,13 @@ Disfruto aprendiendo nuevas tecnologías y aplicando la creatividad en cada lín
 
 ###  Tecnologías y herramientas que manejo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,angular,postgresql,mysql,tailwindcss,php" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,mysql,tailwindcss" alt="Tech Stack" />
 </p>
 
 ---
 
 ###  Actualmente aprendiendo
--  **Angular** para construir interfaces modernas y dinámicas  
--  **Node.js** y **TypeScript** para fortalecer el backend  
--  **SQL** para el manejo eficiente de bases de datos  
--  **Diseño responsivo** y mejora de experiencia de usuario  
+-  **Angular** para construir interfaces modernas y dinámicas 
 
 ---
 
