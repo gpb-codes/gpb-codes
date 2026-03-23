@@ -1,5 +1,5 @@
 <!-- 💫 Perfil de Gabriel Pedreros -->
-<h1 align="center"> ¡Hola! Soy <span style="color:#FFD700;">Gabriel Pedreros</span></h1>
+<h1 align="center"> ¡Hola! Soy <span style="color:#6700A3;">Gabriel Pedreros</span></h1>
 
 <h3 align="center">
 💻 Estudiante de Programación | Desarrollador Web en formación | Soñador digital 
