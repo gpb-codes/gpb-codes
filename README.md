@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9C1BE3&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 # Gabriel Pedreros
 ### `{ Tecnico en Programacion · Ingeniero Informatico en Formacion · Santiago, Chile }`
