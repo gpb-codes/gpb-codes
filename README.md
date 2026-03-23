@@ -22,8 +22,12 @@
 ```txt
 Técnico en Programación | Futuro Ingeniero Informático
 apasionado por la intersección entre tecnología y cultura.
-Me mueve construir proyectos funcionales, visualmente atractivos y con propósito real — porque creo que el buen código no solo resuelve problemas, también puede inspirar.
-Estoy enfocado en el desarrollo Full Stack, uniendo lógica, estética y creatividad en cada línea que escribo. Aprendo constantemente, construyo con intención y busco que cada solución genere un impacto genuino.
+Me mueve construir proyectos funcionales,
+visualmente atractivos y con propósito real — porque creo que el buen código no solo resuelve problemas,
+también puede inspirar.
+Estoy enfocado en el desarrollo Full Stack, uniendo lógica,
+estética y creatividad en cada línea que escribo. Aprendo constantemente,
+ construyo con intención y busco que cada solución genere un impacto genuino.
 Para mí, tecnología y cultura no son mundos separados — son el mismo lenguaje.
 ```
 
