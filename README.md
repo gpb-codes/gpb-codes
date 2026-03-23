@@ -20,17 +20,12 @@
 ## `> whoami`
 
 ```txt
-Tecnico en Programacion y futuro ingeniero informatico
- apasionado por la intersección entre tecnología y cultura.
-Busco crear proyectos funcionales, visualmente atractivos y con propósito real.
-Me motiva la idea de construir soluciones que inspiren — porque el código también puede ser arte.
+Técnico en Programación | Futuro Ingeniero Informático
+apasionado por la intersección entre tecnología y cultura.
+Me mueve construir proyectos funcionales, visualmente atractivos y con propósito real — porque creo que el buen código no solo resuelve problemas, también puede inspirar.
+Estoy enfocado en el desarrollo Full Stack, uniendo lógica, estética y creatividad en cada línea que escribo. Aprendo constantemente, construyo con intención y busco que cada solución genere un impacto genuino.
+Para mí, tecnología y cultura no son mundos separados — son el mismo lenguaje.
 ```
-
--  Siempre con hambre de conocimiento y en constante aprendizaje
-- Enfocado en el desarrollo **Full Stack** — front to back
--  Me gusta unir **lógica, estética y creatividad** en cada proyecto
--  Motivado por construir soluciones que generen impacto real
-- Creo que la tecnología y la cultura son inseparables
 
 ---
 
