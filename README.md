@@ -52,7 +52,3 @@ Disfruto aprendiendo nuevas tecnologías y aplicando la creatividad en cada lín
 ---
 
 <h3 align="center">✨ “Construyendo el futuro, una línea de código a la vez.” ✨</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPedreros&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
