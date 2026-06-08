@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+@layer base {
+  * { @apply m-0 p-0 box-border; }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px;
+  }
+
+  body {
+    @apply bg-[#fafafa] text-[#1a1a2e] font-sans antialiased dark:bg-[#0a0a0f] dark:text-[#e4e4e7];
+    transition: background 0.3s, color 0.3s;
+  }
+
+  .dark body { @apply bg-[#0a0a0f] text-[#e4e4e7]; }
+
+  ::selection { @apply bg-[#6366f1]/20 text-[#6366f1]; }
+  ::-webkit-scrollbar { @apply w-1.5; }
+  ::-webkit-scrollbar-track { @apply bg-transparent; }
+  ::-webkit-scrollbar-thumb { @apply bg-neutral-300 dark:bg-neutral-700 rounded-full; }
+}
+
+@layer components {
+  .container-main {
+    @apply max-w-5xl mx-auto px-5 md:px-8;
+  }
+
+  .section-label {
+    @apply text-xs font-mono font-medium tracking-[0.2em] uppercase text-neutral-400 dark:text-neutral-500 mb-2;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold tracking-tight mb-2;
+  }
+
+  .section-desc {
+    @apply text-neutral-500 dark:text-neutral-400 text-sm md:text-base max-w-xl leading-relaxed;
+  }
+
+  .card {
+    @apply bg-white dark:bg-[#12121a] border border-neutral-200 dark:border-neutral-800 rounded-2xl p-6 md:p-8
+           transition-all duration-300 hover:shadow-lg hover:shadow-neutral-200/50 dark:hover:shadow-neutral-900/50
+           hover:-translate-y-0.5;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-xl hover:shadow-neutral-200/50 dark:hover:shadow-neutral-900/50 hover:-translate-y-1;
+  }
+
+  .tag {
+    @apply inline-flex items-center gap-1.5 px-3 py-1 bg-neutral-100 dark:bg-neutral-800/60
+           text-neutral-600 dark:text-neutral-400 text-xs font-medium rounded-full
+           transition-colors duration-200 hover:bg-[#6366f1]/10 hover:text-[#6366f1];
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-[#1a1a2e] dark:bg-white text-white dark:text-[#1a1a2e]
+           font-semibold text-sm rounded-xl transition-all duration-300
+           hover:bg-[#6366f1] dark:hover:bg-[#6366f1] hover:text-white hover:shadow-lg hover:shadow-[#6366f1]/20
+           hover:-translate-y-0.5;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center gap-2 px-6 py-3 border-2 border-neutral-300 dark:border-neutral-700
+           text-neutral-700 dark:text-neutral-300 font-semibold text-sm rounded-xl
+           transition-all duration-300 hover:border-[#6366f1] hover:text-[#6366f1] hover:-translate-y-0.5;
+  }
+
+  .link-underline {
+    @apply relative inline-block after:absolute after:bottom-0 after:left-0 after:w-full after:h-[2px]
+           after:bg-[#6366f1] after:scale-x-0 after:origin-left after:transition-transform after:duration-300
+           hover:after:scale-x-100;
+  }
+
+  .badge {
+    @apply inline-flex px-3 py-1 text-xs font-medium rounded-full border;
+  }
+}

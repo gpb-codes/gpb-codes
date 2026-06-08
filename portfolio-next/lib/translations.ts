@@ -1,0 +1,132 @@
+export type Lang = 'es' | 'en';
+
+export const t = {
+  nav: {
+    work: { en: 'Work', es: 'Trabajo' },
+    projects: { en: 'Projects', es: 'Proyectos' },
+    about: { en: 'About', es: 'Sobre mi' },
+    contact: { en: 'Contact', es: 'Contacto' },
+    blog: { en: 'Blog', es: 'Blog' },
+  },
+  hero: {
+    badge: { en: 'Software Engineer', es: 'Ingeniero Informatico' },
+    title_highlight: { en: 'build products', es: 'construyo productos' },
+    subtitle: { en: 'that solve real problems', es: 'que resuelven problemas reales' },
+    desc_nestjs: { en: 'NestJS', es: 'NestJS' },
+    desc_go: { en: 'Go', es: 'Go' },
+    desc_next: { en: 'Next.js', es: 'Next.js' },
+    desc_tailwind: { en: 'TailwindCSS', es: 'TailwindCSS' },
+    desc_mysql: { en: 'MySQL', es: 'MySQL' },
+    view_projects: { en: 'View Projects', es: 'Ver Proyectos' },
+    get_in_touch: { en: 'Get in touch', es: 'Contactame' },
+    tech: { en: 'Tech', es: 'Tecnologias' },
+  },
+  about: {
+    label: { en: 'About', es: 'Sobre mi' },
+    title: { en: 'Building with purpose.', es: 'Construyendo con proposito.' },
+    p1: {
+      en: "I'm a Software Engineer who turns complex problems into clean, scalable solutions. My stack is precision-crafted: NestJS and Go on the backend, Next.js and TailwindCSS on the frontend, with MySQL powering the data layer.",
+      es: 'Soy Ingeniero Informatico que convierte problemas complejos en soluciones limpias y escalables. Mi stack esta disenado con precision: NestJS y Go en el backend, Next.js y TailwindCSS en el frontend, con MySQL en la capa de datos.',
+    },
+    p2: {
+      en: 'I believe great software is built at the intersection of solid architecture, clean code, and user-centric design. Whether an AI agent, a productivity tool, or a full SaaS platform, I bring the same rigor and passion.',
+      es: 'Creo que el gran software se construye en la interseccion de arquitectura solida, codigo limpio y diseno centrado en el usuario. Ya sea un agente de IA, una herramienta de productividad o una plataforma SaaS, pongo el mismo rigor y pasion.',
+    },
+    p3: {
+      en: 'Currently exploring multi-agent systems, advanced RAG pipelines, and distributed architectures for local AI inference.',
+      es: 'Actualmente explorando sistemas multi-agente, pipelines RAG avanzados y arquitecturas distribuidas para inferencia de IA local.',
+    },
+    location: { en: 'Location', es: 'Ubicacion' },
+    focus: { en: 'Focus', es: 'Enfoque' },
+    values: { en: 'Values', es: 'Valores' },
+    focus_items: {
+      en: ['Full Stack', 'AI Systems', 'Automation', 'Product Design', 'DevOps'],
+      es: ['Full Stack', 'Sistemas de IA', 'Automatizacion', 'Diseno de Producto', 'DevOps'],
+    },
+    values_list: {
+      en: ['Clean code over clever code', 'Automate everything repetitive', 'Learn by building', 'Open source by default'],
+      es: ['Codigo limpio sobre codigo ingenioso', 'Automatizar todo lo repetitivo', 'Aprender construyendo', 'Open source por defecto'],
+    },
+  },
+  skills: {
+    label: { en: 'Expertise', es: 'Experiencia' },
+    title: { en: 'Craft & stack.', es: 'Habilidades y stack.' },
+    backend: { en: 'Backend', es: 'Backend' },
+    frontend: { en: 'Frontend', es: 'Frontend' },
+    data: { en: 'Data & AI', es: 'Datos e IA' },
+    devops: { en: 'DevOps & Tools', es: 'DevOps y Herramientas' },
+  },
+  experience: {
+    label: { en: 'Experience', es: 'Experiencia' },
+    title: { en: "Where I've worked.", es: 'Donde he trabajado.' },
+  },
+  projects: {
+    label: { en: 'Projects', es: 'Proyectos' },
+    title: { en: "Things I've built.", es: 'Lo que he construido.' },
+    all: { en: 'All', es: 'Todos' },
+    empty: { en: 'No projects yet.', es: 'Aun no hay proyectos.' },
+  },
+  testimonials: {
+    label: { en: 'Testimonials', es: 'Testimonios' },
+    title: { en: 'What people say.', es: 'Lo que dicen de mi.' },
+  },
+  contact: {
+    label: { en: 'Contact', es: 'Contacto' },
+    title: { en: "Let's build something.", es: 'Construyamos algo.' },
+    desc: {
+      en: "Whether it's a full-stack project, an AI agent, or just a conversation about technology, I'm always open to new opportunities.",
+      es: 'Ya sea un proyecto full-stack, un agente de IA, o solo una conversacion sobre tecnologia, siempre estoy abierto a nuevas oportunidades.',
+    },
+  },
+  footer: {
+    built: { en: 'Built with Next.js + TailwindCSS', es: 'Hecho con Next.js + TailwindCSS' },
+    building: { en: 'Always building', es: 'Siempre construyendo' },
+  },
+  chatbot: {
+    online: { en: 'Online', es: 'En linea' },
+    faq_title: { en: 'Frequently asked questions:', es: 'Preguntas frecuentes:' },
+    faq1_q: { en: 'What is your tech stack?', es: 'Cual es tu stack tecnologico?' },
+    faq1_a: { en: 'NestJS, Go, Next.js, TailwindCSS, TypeScript, MySQL.', es: 'NestJS, Go, Next.js, TailwindCSS, TypeScript, MySQL.' },
+    faq2_q: { en: 'Are you available for freelance?', es: 'Estas disponible para freelance?' },
+    faq2_a: { en: 'Yes, open to freelance projects, especially full-stack and AI.', es: 'Si, abierto a proyectos freelance, especialmente full-stack e IA.' },
+    faq3_q: { en: 'Do you build AI agents?', es: 'Construyes agentes de IA?' },
+    faq3_a: { en: 'Yes, multi-agent systems, RAG pipelines, and LLM apps.', es: 'Si, sistemas multi-agente, pipelines RAG y apps con LLMs.' },
+    faq4_q: { en: 'How can I hire you?', es: 'Como puedo contratarte?' },
+    faq4_a: { en: 'Click "Start chat" below or email gpedro@hey.com', es: 'Haz clic en "Iniciar chat" o escribe a gpedro@hey.com' },
+    start_chat: { en: 'Start chat', es: 'Iniciar chat' },
+  },
+  admin: {
+    login_title: { en: 'Admin Login', es: 'Admin Login' },
+    login_desc: { en: 'Enter password to manage', es: 'Ingresa la contrasena para administrar' },
+    login_btn: { en: 'Login', es: 'Ingresar' },
+    wrong_pw: { en: 'Wrong password', es: 'Contrasena incorrecta' },
+    manage: { en: 'Manage', es: 'Administrar' },
+    view_site: { en: 'View site', es: 'Ver sitio' },
+    new_project: { en: 'New Project', es: 'Nuevo Proyecto' },
+    edit_project: { en: 'Edit Project', es: 'Editar Proyecto' },
+    new_post: { en: 'New Post', es: 'Nuevo Articulo' },
+    edit_post: { en: 'Edit Post', es: 'Editar Articulo' },
+    no_projects: { en: 'No projects yet.', es: 'Aun no hay proyectos.' },
+    no_posts: { en: 'No posts yet.', es: 'Aun no hay articulos.' },
+    save: { en: 'Save', es: 'Guardar' },
+    cancel: { en: 'Cancel', es: 'Cancelar' },
+    edit: { en: 'Edit', es: 'Editar' },
+    delete: { en: 'Delete', es: 'Eliminar' },
+    confirm_delete_project: { en: 'Delete this project?', es: 'Eliminar este proyecto?' },
+    confirm_delete_post: { en: 'Delete this post?', es: 'Eliminar este articulo?' },
+    projects_tab: { en: 'Projects', es: 'Proyectos' },
+    posts_tab: { en: 'Blog Posts', es: 'Articulos' },
+  },
+  blog: {
+    title: { en: 'Blog', es: 'Blog' },
+    subtitle: { en: 'Thoughts and insights.', es: 'Ideas y reflexiones.' },
+    read_more: { en: 'Read more', es: 'Leer mas' },
+    back: { en: 'Back to blog', es: 'Volver al blog' },
+    empty: { en: 'No posts yet.', es: 'Aun no hay articulos.' },
+    published: { en: 'Published', es: 'Publicado' },
+  },
+};
+
+export function getLang(lang: Lang, key: string): string {
+  return (t as any)[key]?.[lang] ?? key;
+}
