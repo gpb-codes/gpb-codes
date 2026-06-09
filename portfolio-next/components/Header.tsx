@@ -18,7 +18,6 @@ export default function Header() {
     { label: lang === 'en' ? 'Work' : 'Trabajo', href: '#work' },
     { label: lang === 'en' ? 'Projects' : 'Proyectos', href: '#projects' },
     { label: lang === 'en' ? 'About' : 'Sobre mi', href: '#about' },
-    { label: lang === 'en' ? 'Blog' : 'Blog', href: '/blog' },
     { label: lang === 'en' ? 'Contact' : 'Contacto', href: '#contact' },
   ];
 
