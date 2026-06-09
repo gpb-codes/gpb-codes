@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=180&section=header&text=Gabriel%20Pedreros&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Santiago%2C%20Chile&descSize=16&descAlignY=58&descAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=180&section=header&text=Gabriel%20Pedreros&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20%7C%20Santiago%2C%20Chile&descSize=16&descAlignY=58&descAlign=center" width="100%" />
 
   <br/>
 
@@ -20,19 +20,19 @@
 
 ## Sobre mi
 
-Ingeniero de software enfocado en construir **productos impulsados por IA** y **herramientas para desarrolladores**. Diseno sistemas con arquitectura limpia, codigo mantenible y automatizacion que elimina friccion.
+Ingeniero Informatico con enfoque en **IA aplicada** y **productos full stack**. Construyo sistemas donde la arquitectura es solida, el codigo es mantenible y la automatizacion elimina friccion.
 
-Actualmente construyendo en **Drakkar Labs** -- herramientas que combinan LLMs, pipelines RAG y stacks web modernos para resolver problemas reales de productividad.
+Trabajo en **Drakkar Labs**, donde desarrollo herramientas que combinan LLMs, pipelines RAG y stacks web modernos para resolver problemas reales de productividad y gestion del conocimiento.
 
 <br/>
 
-## Donde aporto valor
+## Que construyo
 
-| Enfoque | Que hago |
-|:--------|:---------|
-| **IA Aplicada** | Sistemas RAG, arquitecturas multi-agente, inferencia local con LLMs |
-| **Productos Full Stack** | Herramientas SaaS completas, de la base de datos a la interfaz |
-| **DevTools** | Aplicaciones de productividad, gestion del conocimiento, automatizacion |
+| Area | Descripcion |
+|:-----|:------------|
+| **IA y Agentes** | Sistemas RAG, arquitecturas multi-agente, inferencia local con LLMs |
+| **Productos SaaS** | Aplicaciones completas de la base de datos a la interfaz |
+| **Herramientas Dev** | Productividad, gestion del conocimiento, automatizacion de workflows |
 | **Infraestructura** | Self-hosted, Docker, CI/CD, despliegue en Cloudflare |
 
 <br/>
@@ -51,7 +51,7 @@ OpenAI  Ollama  LangChain  Cloudflare
 
 <br/>
 
-## Proyectos
+## Proyectos Destacados
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ OpenAI  Ollama  LangChain  Cloudflare
 
 **A.XIS** `En desarrollo`
 
-Plataforma de gestion de tareas conectada con Obsidian. Centralizando notas, proyectos y ejecucion en un solo sistema.
+Plataforma de gestion de tareas conectada con Obsidian. Transformar notas y proyectos en un sistema centralizado de ejecucion personal y profesional.
 
 `Next.js` `TypeScript` `PostgreSQL` `TailwindCSS`
 
@@ -70,7 +70,7 @@ Plataforma de gestion de tareas conectada con Obsidian. Centralizando notas, pro
 
 **Forge** `Construyendo`
 
-Workspace inteligente para desarrolladores. Proyectos, documentacion, automatizacion y agentes IA en una unica plataforma.
+Workspace inteligente para desarrolladores. Centralizar proyectos, documentacion, automatizacion y agentes IA en una unica plataforma.
 
 `Next.js` `RAG` `Agentes IA` `PostgreSQL`
 
