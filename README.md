@@ -418,7 +418,7 @@ Actualmente explorando y desarrollando:
         </a>
       </td>
       <td align="center">
-        <a href="https://TU_PORTAFOLIO.com">
+        <a href="https://gpb-portfolio.pages.dev/">
           <img src="https://img.shields.io/badge/Portafolio-Web-58A6FF?style=for-the-badge&logo=googlechrome" />
         </a>
       </td>
