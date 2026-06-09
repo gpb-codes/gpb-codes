@@ -8,13 +8,13 @@ const FAQS = {
     { q: 'What is your tech stack?', a: 'NestJS, Go, Next.js, TailwindCSS, TypeScript, MySQL.' },
     { q: 'Are you available for freelance?', a: 'Yes, open to freelance projects, especially full-stack and AI.' },
     { q: 'Do you build AI agents?', a: 'Yes, multi-agent systems, RAG pipelines, and LLM apps.' },
-    { q: 'How can I hire you?', a: 'Click "Start chat" below or email gpedro@hey.com' },
+    { q: 'How can I hire you?', a: 'Click "Start chat" below or email gpb-codes@hey.com' },
   ],
   es: [
     { q: 'Cual es tu stack tecnologico?', a: 'NestJS, Go, Next.js, TailwindCSS, TypeScript, MySQL.' },
     { q: 'Estas disponible para freelance?', a: 'Si, abierto a proyectos freelance, especialmente full-stack e IA.' },
     { q: 'Construyes agentes de IA?', a: 'Si, sistemas multi-agente, pipelines RAG y apps con LLMs.' },
-    { q: 'Como puedo contratarte?', a: 'Haz clic en "Iniciar chat" o escribe a gpedro@hey.com' },
+    { q: 'Como puedo contratarte?', a: 'Haz clic en "Iniciar chat" o escribe a gpb-codes@hey.com' },
   ],
 };
 

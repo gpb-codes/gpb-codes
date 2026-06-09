@@ -92,7 +92,7 @@ export const t = {
     faq3_q: { en: 'Do you build AI agents?', es: 'Construyes agentes de IA?' },
     faq3_a: { en: 'Yes, multi-agent systems, RAG pipelines, and LLM apps.', es: 'Si, sistemas multi-agente, pipelines RAG y apps con LLMs.' },
     faq4_q: { en: 'How can I hire you?', es: 'Como puedo contratarte?' },
-    faq4_a: { en: 'Click "Start chat" below or email gpedro@hey.com', es: 'Haz clic en "Iniciar chat" o escribe a gpedro@hey.com' },
+    faq4_a: { en: 'Click "Start chat" below or email gpb-codes@hey.com', es: 'Haz clic en "Iniciar chat" o escribe a gpb-codes@hey.com' },
     start_chat: { en: 'Start chat', es: 'Iniciar chat' },
   },
   admin: {
