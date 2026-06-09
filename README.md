@@ -18,22 +18,22 @@
 
 <br/>
 
-## About
+## Sobre mi
 
-Software engineer focused on building **AI-powered products** and **developer tools**. I design systems where architecture is clean, code is maintainable, and automation eliminates friction.
+Ingeniero de software enfocado en construir **productos impulsados por IA** y **herramientas para desarrolladores**. Diseno sistemas con arquitectura limpia, codigo mantenible y automatizacion que elimina friccion.
 
-Currently building at **Drakkar Labs** -- shipping tools that combine LLMs, RAG pipelines, and modern web stacks to solve real workflow problems.
+Actualmente construyendo en **Drakkar Labs** -- herramientas que combinan LLMs, pipelines RAG y stacks web modernos para resolver problemas reales de productividad.
 
 <br/>
 
-## What I Work On
+## Donde aporto valor
 
-| Focus | What It Means |
-|:------|:--------------|
-| **AI Engineering** | RAG systems, multi-agent architectures, local LLM inference |
-| **Full Stack Products** | End-to-end SaaS tools from database to UI |
-| **Developer Tooling** | Productivity apps, knowledge management, workflow automation |
-| **Infrastructure** | Self-hosted solutions, Docker, CI/CD pipelines |
+| Enfoque | Que hago |
+|:--------|:---------|
+| **IA Aplicada** | Sistemas RAG, arquitecturas multi-agente, inferencia local con LLMs |
+| **Productos Full Stack** | Herramientas SaaS completas, de la base de datos a la interfaz |
+| **DevTools** | Aplicaciones de productividad, gestion del conocimiento, automatizacion |
+| **Infraestructura** | Self-hosted, Docker, CI/CD, despliegue en Cloudflare |
 
 <br/>
 
@@ -51,30 +51,30 @@ OpenAI  Ollama  LangChain  Cloudflare
 
 <br/>
 
-## Projects
+## Proyectos
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-**A.XIS** `In Development`
+**A.XIS** `En desarrollo`
 
-Task management platform connected to Obsidian. Centralizing notes, projects, and execution into one system.
+Plataforma de gestion de tareas conectada con Obsidian. Centralizando notas, proyectos y ejecucion en un solo sistema.
 
 `Next.js` `TypeScript` `PostgreSQL` `TailwindCSS`
 
-[View Project](https://github.com/gpb-codes/axis)
+[Ver Proyecto](https://github.com/gpb-codes/axis)
 
 </td>
     <td width="50%" valign="top">
 
-**Forge** `Building`
+**Forge** `Construyendo`
 
-Intelligent workspace for developers. Projects, docs, automation, and AI agents in a single platform.
+Workspace inteligente para desarrolladores. Proyectos, documentacion, automatizacion y agentes IA en una unica plataforma.
 
-`Next.js` `RAG` `AI Agents` `PostgreSQL`
+`Next.js` `RAG` `Agentes IA` `PostgreSQL`
 
-[View Project](https://github.com/gpb-codes/forge)
+[Ver Proyecto](https://github.com/gpb-codes/forge)
 
 </td>
   </tr>
@@ -101,12 +101,12 @@ Intelligent workspace for developers. Projects, docs, automation, and AI agents 
 
 <br/>
 
-## Contact
+## Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Pedreros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-pedreros-995935364)
 [![Email](https://img.shields.io/badge/Email-gabriel.pedreros.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.pedreros.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gpb--portfolio.pages.dev-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gpb-portfolio.pages.dev/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-gpb--portfolio.pages.dev-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gpb-portfolio.pages.dev/)
 
 </div>
