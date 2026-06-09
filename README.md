@@ -1,11 +1,10 @@
 <div align="center">
 
-  <!-- SYSTEM BOOT SEQUENCE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:7C3AED&height=200&section=header&text=GABRIEL%20PEDREROS&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20FOUNDING%20ENGINEER%20%7C%20SYSTEMS%20ARCHITECT&descSize=14&descAlignY=55&descAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:7C3AED&height=200&section=header&text=GABRIEL%20PEDREROS&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20FOUNDING%20ENGINEER%20%7C%20SISTEMAS%20AVANZADOS&descSize=14&descAlignY=55&descAlign=center" width="100%" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Intelligent+Systems;Designing+the+Future+of+Productivity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Construyendo+Sistemas+Inteligentes;Disenando+el+Futuro+de+la+Productividad" alt="Typing SVG" />
 
   <br/>
 
@@ -30,17 +29,18 @@
 
 <br/>
 
-## // SYSTEM.IDENTITY
+## // SISTEMA.IDENTITY
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  GABRIEL PEDREROS                                               ║
-║  AI Engineer | Full Stack | Systems Architect                   ║
+║  AI Engineer | Full Stack | Arquitecto de Sistemas              ║
 ║  Santiago, Chile | UTC-3                                        ║
 ║                                                                  ║
-║  MISSION: Build intelligent systems that solve real problems.    ║
-║  FOCUS:   AI Products | DevTools | Knowledge Systems             ║
-║  STATUS:  ACTIVE — Building at Drakkar Labs                     ║
+║  MISION: Construir sistemas inteligentes que resuelvan          ║
+║          problemas reales.                                      ║
+║  ENFOQUE: Productos IA | DevTools | Sistemas de Conocimiento    ║
+║  ESTADO:  ACTIVO — Construyendo en Drakkar Labs                 ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -50,13 +50,13 @@
 
 <br/>
 
-## // CORE.PHILOSOPHY
+## // FILOSOFIA.CORE
 
-> **"Design systems. Ship products. Automate everything else."**
+> **"Disenar sistemas. Lanzar productos. Automatizar todo lo demas."**
 
-I build software where **architecture is intentional**, **code is maintainable**, and **automation eliminates friction**. My work sits at the intersection of AI engineering and full-stack product development.
+Construyo software donde la **arquitectura es intencional**, el **codigo es mantenible** y la **automatizacion elimina la friccion**. Mi trabajo se ubica en la interseccion de ingenieria IA y desarrollo de productos full stack.
 
-Currently building at **Drakkar Labs** — an innovation lab developing tools that combine LLMs, RAG pipelines, and modern web infrastructure to solve real productivity and knowledge management problems.
+Actualmente construyendo en **Drakkar Labs** — un laboratorio de innovacion que desarrolla herramientas combinando LLMs, pipelines RAG y infraestructura web moderna para resolver problemas reales de productividad y gestion del conocimiento.
 
 <br/>
 
@@ -64,33 +64,33 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <br/>
 
-## // SYSTEM.CAPABILITIES
+## // SISTEMA.CAPACIDADES
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-**AI Systems & Intelligence**
+**Sistemas IA e Inteligencia**
 
 ```
-> RAG Architectures
-> Multi-Agent Systems
-> Local LLM Infrastructure
-> Knowledge Graphs
-> AI Engineering Pipelines
+> Arquitecturas RAG
+> Sistemas Multi-Agente
+> Infraestructura Local de LLMs
+> Grafos de Conocimiento
+> Pipelines de AI Engineering
 ```
 
 </td>
     <td width="50%" valign="top">
 
-**Full Stack & Infrastructure**
+**Full Stack e Infraestructura**
 
 ```
-> End-to-End SaaS Products
-> API Design & Architecture
-> Database Engineering
-> Cloud & Self-Hosted Deploy
-> CI/CD & DevOps
+> Productos SaaS Completos
+> Diseno de APIs
+> Ingenieria de Bases de Datos
+> Despliegue Cloud y Self-Hosted
+> CI/CD y DevOps
 ```
 
 </td>
@@ -103,7 +103,7 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <br/>
 
-## // TECH.STACK
+## // ECO.TECNOLOGICO
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <br/>
 
-## // ACTIVE.MODULES
+## // MODULOS.ACTIVOS
 
 <table>
   <tr>
@@ -178,22 +178,22 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 ```
 ┌─────────────────────────────────────┐
-│  MODULE_01: A.XIS                   │
-│  STATUS:      IN DEVELOPMENT        │
-│  PRIORITY:    HIGH                   │
+│  MODULO_01: A.XIS                   │
+│  ESTADO:      EN DESARROLLO         │
+│  PRIORIDAD:   ALTA                  │
 ├─────────────────────────────────────┤
-│  MISSION:                            │
-│  Task management platform connected  │
-│  to Obsidian. Transform notes and    │
-│  projects into a centralized system  │
-│  of personal and professional        │
-│  execution.                          │
+│  MISION:                             │
+│  Plataforma de gestion de tareas     │
+│  conectada con Obsidian. Transformar │
+│  notas y proyectos en un sistema     │
+│  centralizado de ejecucion personal  │
+│  y profesional.                      │
 │                                      │
 │  STACK:                              │
 │  Next.js | TypeScript | PostgreSQL   │
-│  TailwindCSS | Obsidian API          │
+│  TailwindCSS | API Obsidian          │
 │                                      │
-│  [> ACCESS REPOSITORY]               │
+│  [> ACCEDER AL REPOSITORIO]          │
 └─────────────────────────────────────┘
 ```
 
@@ -202,21 +202,22 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 ```
 ┌─────────────────────────────────────┐
-│  MODULE_02: FORGE                    │
-│  STATUS:      BUILDING              │
-│  PRIORITY:    HIGH                   │
+│  MODULO_02: FORGE                    │
+│  ESTADO:      CONSTRUYENDO          │
+│  PRIORIDAD:   ALTA                  │
 ├─────────────────────────────────────┤
-│  MISSION:                            │
-│  Intelligent workspace for           │
-│  developers. Centralizing projects,  │
-│  documentation, automation, and AI   │
-│  agents in a single platform.        │
+│  MISION:                             │
+│  Workspace inteligente para          │
+│  desarrolladores. Centralizar        │
+│  proyectos, documentacion,           │
+│  automatizacion y agentes IA en      │
+│  una unica plataforma.               │
 │                                      │
 │  STACK:                              │
 │  Next.js | PostgreSQL | RAG          │
-│  AI Agents | Vector DB               │
+│  Agentes IA | Vector DB              │
 │                                      │
-│  [> ACCESS REPOSITORY]               │
+│  [> ACCEDER AL REPOSITORIO]          │
 └─────────────────────────────────────┘
 ```
 
@@ -230,29 +231,32 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <br/>
 
-## // AI.RESEARCH.DIVISION
+## // IA.DIVISION.INVESTIGACION
 
 <div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│                    RESEARCH AREAS                                │
+│                    AREAS DE INVESTIGACION                        │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
-│  [01] Multi-Agent Systems                                       │
-│       Autonomous agent coordination and task decomposition       │
+│  [01] Sistemas Multi-Agente                                     │
+│       Coordinacion autonoma de agentes y descomposicion          │
+│       de tareas complejas                                       │
 │                                                                  │
-│  [02] RAG Architectures                                         │
-│       Retrieval-Augmented Generation for knowledge systems      │
+│  [02] Arquitecturas RAG                                         │
+│       Retrieval-Augmented Generation para sistemas              │
+│       de conocimiento escalables                                │
 │                                                                  │
-│  [03] Local LLM Infrastructure                                  │
-│       On-premise inference with Ollama and custom models         │
+│  [03] Infraestructura Local de LLMs                             │
+│       Inferencia on-premise con Ollama y modelos custom         │
 │                                                                  │
-│  [04] Knowledge Graphs                                          │
-│       Structured knowledge representation and retrieval          │
+│  [04] Grafos de Conocimiento                                    │
+│       Representacion estructurada del conocimiento y            │
+│       recuperacion inteligente                                  │
 │                                                                  │
-│  [05] AI Engineering Pipelines                                  │
-│       End-to-end ML ops and model deployment                    │
+│  [05] Pipelines de AI Engineering                               │
+│       MLOps end-to-end y despliegue de modelos                  │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -274,22 +278,23 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 ║                                                              ║
 ║                    D R A K K A R   L A B S                   ║
 ║                                                              ║
-║              Innovation Lab | Technology Studio              ║
+║              Laboratorio de Innovacion | Estudio Tecnologico ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  Drakkar Labs is where I design and build products focused   ║
-║  on productivity, automation, AI, and developer tooling.     ║
+║  Drakkar Labs es donde disenio y construyo productos         ║
+║  enfocados en productividad, automatizacion, IA y            ║
+║  herramientas para desarrolladores.                          ║
 ║                                                              ║
-║  Every project starts with a real problem and ends with      ║
-║  a system that solves it intelligently.                      ║
+║  Cada proyecto comienza con un problema real y termina       ║
+║  con un sistema que lo resuelve de forma inteligente.        ║
 ║                                                              ║
-║  PRODUCTS:                                                   ║
-║  > A.XIS — Personal execution system                        ║
-║  > Forge — Developer workspace with AI                      ║
-║  > DevTools — Productivity automation                       ║
+║  PRODUCTOS:                                                  ║
+║  > A.XIS — Sistema de ejecucion personal                    ║
+║  > Forge — Workspace para desarrolladores con IA             ║
+║  > DevTools — Automatizacion de productividad                ║
 ║                                                              ║
-║  STACK: Next.js | NestJS | PostgreSQL | AI | Docker         ║
+║  STACK: Next.js | NestJS | PostgreSQL | IA | Docker         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -302,7 +307,7 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <br/>
 
-## // CURRENT.OBJECTIVES
+## // OBJETIVOS.ACTUALES
 
 <div align="center">
 
@@ -312,21 +317,21 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 ├────────────────────────────────────────────────────────────────┤
 │                                                                │
 │  Q3 2026                                                       │
-│  ├── [x] Build portfolio on Cloudflare Pages                  │
-│  ├── [x] Optimize GitHub profile for recruitment              │
-│  ├── [ ] Launch A.XIS beta                                    │
-│  └── [ ] Publish 2 technical articles                         │
+│  ├── [x] Crear portafolio en Cloudflare Pages                 │
+│  ├── [x] Optimizar perfil de GitHub para reclutamiento        │
+│  ├── [ ] Lanzar beta de A.XIS                                 │
+│  └── [ ] Publicar 2 articulos tecnicos                        │
 │                                                                │
 │  Q4 2026                                                       │
-│  ├── [ ] Forge early access                                   │
-│  ├── [ ] 3+ open source contributions                         │
-│  ├── [ ] Reach 50+ GitHub stars                               │
-│  └── [ ] Document first case study                            │
+│  ├── [ ] Acceso anticipado a Forge                            │
+│  ├── [ ] 3+ contribuciones open source                        │
+│  ├── [ ] Alcanzar 50+ estrellas en GitHub                     │
+│  └── [ ] Documentar primer caso de exito                      │
 │                                                                │
 │  Q1 2027                                                       │
-│  ├── [ ] A.XIS public launch                                  │
-│  ├── [ ] Forge public beta                                    │
-│  └── [ ] Speaking at local tech community                     │
+│  ├── [ ] Lanzamiento publico de A.XIS                         │
+│  ├── [ ] Beta publica de Forge                                │
+│  └── [ ] Presentar en comunidad tech local                    │
 │                                                                │
 └────────────────────────────────────────────────────────────────┘
 ```
@@ -339,20 +344,24 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <br/>
 
-## // GITHUB.INTELLIGENCE
+## // INTELIGENCIA.GITHUB
 
 <div align="center">
 
 <table border="0" cellpadding="8">
   <tr>
     <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=gpb-codes&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&text_color=8B949E&title_color=58A6FF" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=gpb-codes&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&text_color=8B949E&title_color=58A6FF&count_private=true&include_all_commits=true" />
     </td>
     <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpb-codes&layout=compact&theme=transparent&hide_border=true&text_color=8B949E&title_color=58A6FF" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpb-codes&layout=compact&theme=transparent&hide_border=true&text_color=8B949E&title_color=58A6FF&langs_count=8" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gpb-codes&theme=transparent&hide_border=true&fire=FF8800&ring=58A6FF&currStreakNum=58A6FF&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E" width="500" />
 
 </div>
 
@@ -362,13 +371,13 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <br/>
 
-## // CONTACT.HUB
+## // CENTRO.COMUNICACION
 
 <div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                    COMMUNICATION CHANNELS                     │
+│                    CANALES DE COMUNICACION                    │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  [LINKEDIN]    linkedin.com/in/gabriel-pedreros-995935364   │
@@ -395,10 +404,10 @@ Currently building at **Drakkar Labs** — an innovation lab developing tools th
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:7C3AED&height=100&section=footer&text=BUILDING+INTELLIGENT+SYSTEMS+FOR+THE+NEXT+GENERATION&fontSize=14&fontColor=58a6ff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:7C3AED&height=100&section=footer&text=CONSTRUYENDO+SISTEMAS+INTELIGENTES+PARA+LA+PROXIMA+GENERACION&fontSize=14&fontColor=58a6ff&animation=fadeIn" width="100%" />
 
   <br/>
 
-  <sub>SYSTEM.VERSION: 2.0 | LAST.UPDATED: 2026 | STATUS: OPERATIONAL</sub>
+  <sub>SISTEMA.VERSION: 2.0 | ULTIMA.ACTUALIZACION: 2026 | ESTADO: OPERACIONAL</sub>
 
 </div>
