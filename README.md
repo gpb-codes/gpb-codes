@@ -311,6 +311,7 @@ Actualmente construyendo en **Drakkar Labs** — un laboratorio de innovacion qu
             <span style="color: #22c55e;">&#10003;</span> Optimizar perfil de GitHub para reclutamiento<br/>
             <span style="color: #22c55e;">&#10003;</span> Creacion de web de Drakkar lista<br/>
             <span style="color: #F59E0B;">&#9675;</span> Beta DevSactum en desarrollo<br/>
+            <span style="color: #F59E0B;">&#9675;</span> Second Brain en desarrollo<br/>
             <span style="color: #F59E0B;">&#9675;</span> Lanzar beta de A.XIS<br/>
             <span style="color: #F59E0B;">&#9675;</span> Publicar 2 articulos tecnicos
           </td>
