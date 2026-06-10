@@ -309,6 +309,8 @@ Actualmente construyendo en **Drakkar Labs** — un laboratorio de innovacion qu
           <td style="color: #e0e0e0; font-size: 14px; line-height: 2;">
             <span style="color: #22c55e;">&#10003;</span> Crear portafolio en Cloudflare Pages<br/>
             <span style="color: #22c55e;">&#10003;</span> Optimizar perfil de GitHub para reclutamiento<br/>
+            <span style="color: #22c55e;">&#10003;</span> Creacion de web de Drakkar lista<br/>
+            <span style="color: #F59E0B;">&#9675;</span> Beta DevSactum en desarrollo<br/>
             <span style="color: #F59E0B;">&#9675;</span> Lanzar beta de A.XIS<br/>
             <span style="color: #F59E0B;">&#9675;</span> Publicar 2 articulos tecnicos
           </td>
