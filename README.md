@@ -333,6 +333,7 @@ Actualmente construyendo en **Drakkar Labs** — un laboratorio de innovacion qu
           <td style="color: #e0e0e0; font-size: 14px; line-height: 2;">
             <span style="color: #F59E0B;">&#9675;</span> Lanzamiento publico de A.XIS<br/>
             <span style="color: #F59E0B;">&#9675;</span> Beta publica de Forge<br/>
+            <span style="color: #F59E0B;">&#9675;</span> Lanzamiento oficial de DevSactum 1.0<br/>
             <span style="color: #F59E0B;">&#9675;</span> Presentar en comunidad tech local
           </td>
         </tr>
