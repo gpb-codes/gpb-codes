@@ -282,10 +282,44 @@ Mi trabajo se ubica en la intersección de **ingeniería IA** y **desarrollo de 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-pedreros-995935364)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.pedreros.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gpb-portfolio.pages.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gpb-codes)
+<table>
+  <tr>
+    <td style="background: linear-gradient(135deg, #8B5CF6 0%, #3B82F6 100%); border-radius: 16px; padding: 24px;">
+      <table>
+        <tr>
+          <td align="center" style="padding: 10px 20px;">
+            <a href="https://linkedin.com/in/gabriel-pedreros-995935364">
+              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+              <br/>
+              <sub style="color: white;">Conectemos</sub>
+            </a>
+          </td>
+          <td align="center" style="padding: 10px 20px;">
+            <a href="mailto:gabriel.pedreros.dev@gmail.com">
+              <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+              <br/>
+              <sub style="color: white;">Escribeme</sub>
+            </a>
+          </td>
+          <td align="center" style="padding: 10px 20px;">
+            <a href="https://gpb-portfolio.pages.dev/">
+              <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+              <br/>
+              <sub style="color: white;">Proyectos</sub>
+            </a>
+          </td>
+          <td align="center" style="padding: 10px 20px;">
+            <a href="https://github.com/gpb-codes">
+              <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+              <br/>
+              <sub style="color: white;">Repos</sub>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
