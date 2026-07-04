@@ -56,13 +56,36 @@ Mi trabajo se ubica en la intersección de **ingeniería IA** y **desarrollo de 
 
 <div align="center">
 
-| Sistemas IA | Full Stack |
-|---|---|
-| Arquitecturas RAG | Productos SaaS Completos |
-| Sistemas Multi-Agente | Diseño de APIs |
-| Infraestructura Local de LLMs | Ingeniería de Bases de Datos |
-| Grafos de Conocimiento | Despliegue Cloud y Self-Hosted |
-| Pipelines de AI Engineering | CI/CD y DevOps |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Sistemas IA-8B5CF6?style=for-the-badge&logo=deepmind&logoColor=white" />
+      </div>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Arquitecturas_RAG-1a1a2e?style=flat&logo=databricks&logoColor=8B5CF6" /><br/>
+        <img src="https://img.shields.io/badge/Sistemas_Multi--Agente-1a1a2e?style=flat&logo=robot&logoColor=8B5CF6" /><br/>
+        <img src="https://img.shields.io/badge/Infraestructura_LLMs-1a1a2e?style=flat&logo=ollama&logoColor=8B5CF6" /><br/>
+        <img src="https://img.shields.io/badge/Grafos_de_Conocimiento-1a1a2e?style=flat&logo=neo4j&logoColor=8B5CF6" /><br/>
+        <img src="https://img.shields.io/badge/Pipelines_AI_Engineering-1a1a2e?style=flat&logo=mlflow&logoColor=8B5CF6" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Full Stack-3B82F6?style=for-the-badge&logo=codeigniter&logoColor=white" />
+      </div>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Productos_SaaS-1a1a2e?style=flat&logo=salesforce&logoColor=3B82F6" /><br/>
+        <img src="https://img.shields.io/badge/Dise%C3%B1o_de_APIs-1a1a2e?style=flat&logo=fastapi&logoColor=3B82F6" /><br/>
+        <img src="https://img.shields.io/badge/Ingenier%C3%ADa_BD-1a1a2e?style=flat&logo=postgresql&logoColor=3B82F6" /><br/>
+        <img src="https://img.shields.io/badge/Cloud_y_Self--Hosted-1a1a2e?style=flat&logo=cloudflare&logoColor=3B82F6" /><br/>
+        <img src="https://img.shields.io/badge/CI%2FCD_y_DevOps-1a1a2e?style=flat&logo=githubactions&logoColor=3B82F6" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -74,23 +97,48 @@ Mi trabajo se ubica en la intersección de **ingeniería IA** y **desarrollo de 
 
 <div align="center">
 
-### A.XIS
-<span style="background: #8B5CF6; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">EN DESARROLLO</span>
-<span style="background: #EF4444; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">PRIORIDAD ALTA</span>
-
-Plataforma de gestión de tareas conectada con Obsidian. Transforma notas y proyectos en un sistema centralizado de ejecución personal y profesional.
-
-`Next.js` `TypeScript` `PostgreSQL` `Tailwind`
-
-<br/>
-
-### Forge
-<span style="background: #F59E0B; color: #000; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">CONSTRUYENDO</span>
-<span style="background: #EF4444; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">PRIORIDAD ALTA</span>
-
-Workspace inteligente para desarrolladores. Centraliza proyectos, documentación, automatización y agentes IA en una única plataforma.
-
-`Next.js` `PostgreSQL` `RAG` `Agentes IA`
+<table>
+  <tr>
+    <td width="50%" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; padding: 24px; border: 2px solid #8B5CF6;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/A.XIS-8B5CF6?style=for-the-badge&logo=obsidian&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/EN_DESARROLLO-8B5CF6?style=flat&logo=rocket&logoColor=white" />
+        <img src="https://img.shields.io/badge/PRIORIDAD_ALTA-EF4444?style=flat&logo=fire&logoColor=white" />
+      </div>
+      <br/>
+      <p align="center">
+        Plataforma de gestion de tareas conectada con Obsidian. Transforma notas y proyectos en un sistema centralizado de ejecucion personal y profesional.
+      </p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; padding: 24px; border: 2px solid #3B82F6;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Forge-3B82F6?style=for-the-badge&logo=codeblocks&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/CONSTRUYENDO-F59E0B?style=flat&logo=hammer&logoColor=black" />
+        <img src="https://img.shields.io/badge/PRIORIDAD_ALTA-EF4444?style=flat&logo=fire&logoColor=white" />
+      </div>
+      <br/>
+      <p align="center">
+        Workspace inteligente para desarrolladores. Centraliza proyectos, documentacion, automatizacion y agentes IA en una unica plataforma.
+      </p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat&logo=deepmind&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agentes_IA-F59E0B?style=flat&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -98,15 +146,44 @@ Workspace inteligente para desarrolladores. Centraliza proyectos, documentación
 
 ---
 
-## Áreas de Investigación
+## Areas de Investigacion
 
-| # | Área | Descripción |
-|---|---|---|
-| 01 | **Sistemas Multi-Agente** | Coordinación autónoma de agentes y descomposición de tareas complejas |
-| 02 | **Arquitecturas RAG** | Retrieval-Augmented Generation para sistemas de conocimiento escalables |
-| 03 | **Infraestructura Local de LLMs** | Inferencia on-premise con Ollama y modelos custom |
-| 04 | **Grafos de Conocimiento** | Representación estructurada del conocimiento y recuperación inteligente |
-| 05 | **Pipelines de AI Engineering** | MLOps end-to-end y despliegue de modelos |
+<div align="center">
+
+<table>
+  <tr>
+    <td width="10%" align="center"><img src="https://img.shields.io/badge/01-8B5CF6?style=for-the-badge" /></td>
+    <td width="25%"><b>Sistemas Multi-Agente</b></td>
+    <td width="65%">Coordinacion autonoma de agentes y descomposicion de tareas complejas</td>
+    <td width="10%"><img src="https://img.shields.io/badge/--8B5CF6?style=flat&logo=robot&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/02-3B82F6?style=for-the-badge" /></td>
+    <td><b>Arquitecturas RAG</b></td>
+    <td>Retrieval-Augmented Generation para sistemas de conocimiento escalables</td>
+    <td><img src="https://img.shields.io/badge/--3B82F6?style=flat&logo=databricks&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/03-F59E0B?style=for-the-badge" /></td>
+    <td><b>Infraestructura Local de LLMs</b></td>
+    <td>Inferencia on-premise con Ollama y modelos custom</td>
+    <td><img src="https://img.shields.io/badge/--F59E0B?style=flat&logo=ollama&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/04-06B6D4?style=for-the-badge" /></td>
+    <td><b>Grafos de Conocimiento</b></td>
+    <td>Representacion estructurada del conocimiento y recuperacion inteligente</td>
+    <td><img src="https://img.shields.io/badge/--06B6D4?style=flat&logo=neo4j&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/05-22C55E?style=for-the-badge" /></td>
+    <td><b>Pipelines de AI Engineering</b></td>
+    <td>MLOps end-to-end y despliegue de modelos</td>
+    <td><img src="https://img.shields.io/badge/--22C55E?style=flat&logo=mlflow&logoColor=white" /></td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -116,16 +193,36 @@ Workspace inteligente para desarrolladores. Centraliza proyectos, documentación
 
 <div align="center">
 
-### **DRAKKAR LABS**
-**Laboratorio de Innovación**
-
-Donde diseño y construyo productos enfocados en **productividad**, **automatización** e **inteligencia artificial**.
-
-| Producto | Enfoque |
-|---|---|
-| **A.XIS** | Ejecución personal |
-| **Forge** | Workspace con IA |
-| **DevTools** | Automatización |
+<table>
+  <tr>
+    <td style="background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 50%, #16213e 100%); border-radius: 20px; padding: 32px; border: 2px solid #8B5CF6;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/DRAKKAR_LABS-8B5CF6?style=for-the-badge&logo=lab&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Laboratorio_de_Innovaci%C3%B3n-3B82F6?style=flat&logo=lightbulb&logoColor=white" />
+        <br/><br/>
+        Donde diseno y construyo productos enfocados en <b>productividad</b>, <b>automatizacion</b> e <b>inteligencia artificial</b>.
+        <br/><br/>
+        <table>
+          <tr>
+            <td align="center" style="background: rgba(139, 92, 246, 0.15); border: 1px solid #8B5CF6; border-radius: 12px; padding: 12px 20px;">
+              <img src="https://img.shields.io/badge/A.XIS-8B5CF6?style=flat&logo=obsidian&logoColor=white" /><br/>
+              <sub>Ejecucion personal</sub>
+            </td>
+            <td align="center" style="background: rgba(59, 130, 246, 0.15); border: 1px solid #3B82F6; border-radius: 12px; padding: 12px 20px;">
+              <img src="https://img.shields.io/badge/Forge-3B82F6?style=flat&logo=codeblocks&logoColor=white" /><br/>
+              <sub>Workspace con IA</sub>
+            </td>
+            <td align="center" style="background: rgba(245, 158, 11, 0.15); border: 1px solid #F59E0B; border-radius: 12px; padding: 12px 20px;">
+              <img src="https://img.shields.io/badge/DevTools-F59E0B?style=flat&logo=wrench&logoColor=black" /><br/>
+              <sub>Automatizacion</sub>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
