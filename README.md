@@ -41,9 +41,10 @@ Mi trabajo se ubica en la intersección de **ingeniería IA** y **desarrollo de 
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,react,python,go,postgres,docker,linux,tailwind,prisma,redis,graphql,git,kubernetes,terraform" />
-</a>
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=ts" width="48" /><br/>TypeScript | <img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/>Next.js | <img src="https://skillicons.dev/icons?i=nestjs" width="48" /><br/>NestJS | <img src="https://skillicons.dev/icons?i=react" width="48" /><br/>React | <img src="https://skillicons.dev/icons?i=python" width="48" /><br/>Python | <img src="https://skillicons.dev/icons?i=go" width="48" /><br/>Go | <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br/>PostgreSQL | <img src="https://skillicons.dev/icons?i=docker" width="48" /><br/>Docker |
+| <img src="https://skillicons.dev/icons?i=linux" width="48" /><br/>Linux | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br/>Tailwind | <img src="https://skillicons.dev/icons?i=prisma" width="48" /><br/>Prisma | <img src="https://skillicons.dev/icons?i=redis" width="48" /><br/>Redis | <img src="https://skillicons.dev/icons?i=graphql" width="48" /><br/>GraphQL | <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>Git | <img src="https://skillicons.dev/icons?i=kubernetes" width="48" /><br/>Kubernetes | <img src="https://skillicons.dev/icons?i=terraform" width="48" /><br/>Terraform |
 
 </div>
 
