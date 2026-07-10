@@ -1,4 +1,4 @@
-# Despliegue en Cloudflare Pages
+powershell -ExecutionPolicy Bypass -File "D:\mis complementos\openshark-menu.ps1"# Despliegue en Cloudflare Pages
 
 ## Opción 1: Direct Upload (Recomendado)
 

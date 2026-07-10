@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "sitio web corporativo (Drakkar Labs)",
+    "description": "sitio web de mi startup Drakkar Labs, desarrollado con Next.js y TailwindCSS.",
+    "descriptionEn": "Corporate website for my startup Drakkar Labs, developed with Next.js and TailwindCSS.",
+    "link": "https://drakkar-labs.pages.dev/",
+    "repo": "https://github.com/drakkar-labs/DRAKKAR.git",
+    "image": "https://drakkar-labs.pages.dev/drakkar-logo.png",
+    "tags": ["Next.js", "TypeScript", "TailwindCSS"],
+    "category": "fullstack",
+    "featured": true,
+    "status": "completed",
+    "startDate": "2026-01",
+    "endDate": "2026-06"
+  }
+]
