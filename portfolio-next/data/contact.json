@@ -1,0 +1,17 @@
+[
+  {
+    "label": "GitHub",
+    "href": "https://github.com/gpb-codes",
+    "icon": "github"
+  },
+  {
+    "label": "LinkedIn",
+    "href": "https://www.linkedin.com/in/gabriel-pedreros-995935364",
+    "icon": "linkedin"
+  },
+  {
+    "label": "Email",
+    "href": "mailto:gabrielpedreros.dev@gmail.com",
+    "icon": "email"
+  }
+]

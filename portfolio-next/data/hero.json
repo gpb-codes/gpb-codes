@@ -1,0 +1,15 @@
+{
+  "stack": [
+    { "name": "Next.js", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" },
+    { "name": "NestJS", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" },
+    { "name": "Go", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" },
+    { "name": "TailwindCSS", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" },
+    { "name": "MySQL", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
+    { "name": "TypeScript", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" }
+  ],
+  "name": "Gabriel Pedreros",
+  "desc": {
+    "en": "Full Stack Developer crafting robust backend systems with <strong>NestJS</strong> and <strong>Go</strong>, blazing-fast frontends with <strong>Next.js</strong> and <strong>TailwindCSS</strong>, and data layers powered by <strong>MySQL</strong>.",
+    "es": "Full Stack Developer creando backends robustos con <strong>NestJS</strong> y <strong>Go</strong>, frontends ultra-rapidos con <strong>Next.js</strong> y <strong>TailwindCSS</strong>, y capas de datos con <strong>MySQL</strong>."
+  }
+}

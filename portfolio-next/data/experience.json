@@ -1,0 +1,43 @@
+[
+  {
+    "period": { "en": "2025 - Present", "es": "2025 - Presente" },
+    "role": { "en": "Intern - Software Engineer", "es": "Practicante - Ingeniero de Software" },
+    "company": { "en": "Oystech.lat / LAB.IA", "es": "Oystech.lat / LAB.IA" },
+    "desc": {
+      "en": "Developing internal automation tools and AI solutions. Working with modern web technologies and learning production-grade software engineering practices.",
+      "es": "Desarrollando herramientas de automatizacion interna y soluciones de IA. Trabajando con tecnologias web modernas y aprendiendo practicas de ingenieria de software en produccion."
+    },
+    "tags": ["NestJS", "Next.js", "AI", "TypeScript"]
+  },
+  {
+  "period": {
+    "en": "2025 - Present",
+    "es": "2025 - Actualidad"
+  },
+  "role": {
+    "en": "Founder & CTO",
+    "es": "Fundador y CTO"
+  },
+  "company": {
+    "en": "Drakkar Labs",
+    "es": "Drakkar Labs"
+  },
+  "desc": {
+    "en": "Founded and lead the technical strategy of Drakkar Labs. Designed and developed scalable full-stack applications, defined the software architecture, implemented CI/CD pipelines, managed cloud infrastructure, and built internal tools focused on automation, developer experience, and AI-driven solutions.",
+    "es": "Fundé y lidero la estrategia tecnológica de Drakkar Labs. Diseño y desarrollo aplicaciones full-stack escalables, defino la arquitectura de software, implemento pipelines de CI/CD, administro infraestructura en la nube y desarrollo herramientas internas orientadas a la automatización, la experiencia del desarrollador y soluciones impulsadas por IA."
+  },
+  "tags": [
+    "Next.js",
+    "NestJS",
+    "TypeScript",
+    "TailwindCSS",
+    "Cloudflare",
+    "Cloudflare Workers",
+    "Cloudflare Pages",
+    "D1 Database",
+    "GitHub Actions",
+    "REST API",
+    "Docker"
+  ]
+}
+]

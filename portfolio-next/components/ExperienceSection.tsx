@@ -2,18 +2,15 @@
 
 import AnimeWrapper from './AnimeWrapper';
 import { useLang } from '@/context/LanguageContext';
+import experienceData from '@/data/experience.json';
 
-const EXPERIENCE = [
-  {
-    period: { en: '2025 - Present', es: '2025 - Presente' },
-    role: { en: 'Practicante', es: 'Practicante' },
-    company: { en: 'Oystech.lat / LAB.IA', es: 'Oystech.lat / LAB.IA' },
-    desc: {
-      en: 'Developing internal automation tools and AI solutions. Working with modern web technologies and learning production-grade software engineering practices.',
-      es: 'Desarrollando herramientas de automatizacion interna y soluciones de IA. Trabajando con tecnologias web modernas y aprendiendo practicas de ingenieria de software en produccion.',
-    },
-  },
-];
+const EXPERIENCE = experienceData as Array<{
+  period: { en: string; es: string };
+  role: { en: string; es: string };
+  company: { en: string; es: string };
+  desc: { en: string; es: string };
+  tags?: string[];
+}>;
 
 export default function ExperienceSection() {
   const { lang } = useLang();
@@ -38,10 +35,19 @@ export default function ExperienceSection() {
                 <div className="relative pl-0 md:pl-8">
                   <div className="hidden md:block absolute left-0 top-1.5 w-[15px] h-[15px] rounded-full border-2 border-[#6366f1] bg-white dark:bg-[#0a0a0f] z-10" />
                   <div className="card">
-                    <span className="text-xs font-mono text-[#6366f1] font-medium tracking-wide">{exp.period[lang]}</span>
+                    <div className="flex items-start justify-between gap-3 mb-1">
+                      <span className="text-xs font-mono text-[#6366f1] font-medium tracking-wide">{exp.period[lang]}</span>
+                      <span className="text-xs font-mono text-neutral-400 dark:text-neutral-500">{exp.company[lang]}</span>
+                    </div>
                     <h3 className="text-lg font-semibold text-[#1a1a2e] dark:text-white mt-1">{exp.role[lang]}</h3>
-                    <p className="text-sm text-neutral-500 dark:text-neutral-400 mt-0.5 mb-3">{exp.company[lang]}</p>
-                    <p className="text-sm text-neutral-500 dark:text-neutral-400 leading-relaxed">{exp.desc[lang]}</p>
+                    <p className="text-sm text-neutral-500 dark:text-neutral-400 leading-relaxed mt-2 mb-3">{exp.desc[lang]}</p>
+                    {exp.tags && exp.tags.length > 0 && (
+                      <div className="flex flex-wrap gap-1.5 mt-3">
+                        {exp.tags.map((tag) => (
+                          <span key={tag} className="tag text-[10px]">{tag}</span>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 </div>
               </AnimeWrapper>

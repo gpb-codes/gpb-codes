@@ -1,0 +1,11 @@
+{
+  "location": "Santiago, Chile",
+  "focus": {
+    "en": ["Full Stack", "AI Systems", "Automation", "Product Design", "DevOps"],
+    "es": ["Full Stack", "Sistemas de IA", "Automatizacion", "Diseno de Producto", "DevOps"]
+  },
+  "values": {
+    "en": ["Clean code over clever code", "Automate everything repetitive", "Learn by building", "Open source by default"],
+    "es": ["Codigo limpio sobre codigo ingenioso", "Automatizar todo lo repetitivo", "Aprender construyendo", "Open source por defecto"]
+  }
+}

@@ -125,6 +125,27 @@ export const t = {
     empty: { en: 'No posts yet.', es: 'Aun no hay articulos.' },
     published: { en: 'Published', es: 'Publicado' },
   },
+  github: {
+    label: { en: 'GitHub', es: 'GitHub' },
+    title: { en: 'Open source & activity.', es: 'Open source y actividad.' },
+    repos: { en: 'Repos', es: 'Repositorios' },
+    stars: { en: 'Stars', es: 'Estrellas' },
+    forks: { en: 'Forks', es: 'Forks' },
+    followers: { en: 'Followers', es: 'Seguidores' },
+    languages: { en: 'Languages', es: 'Lenguajes' },
+    activity: { en: 'Activity', es: 'Actividad' },
+    view_all: { en: 'View all on GitHub', es: 'Ver todo en GitHub' },
+  },
+  stack: {
+    label: { en: 'Tech Stack', es: 'Stack Tecnologico' },
+    title: { en: 'Tools I use.', es: 'Herramientas que uso.' },
+  },
+  certifications: {
+    label: { en: 'Certifications', es: 'Certificaciones' },
+    title: { en: 'Continuous learning.', es: 'Aprendizaje continuo.' },
+    all: { en: 'All', es: 'Todas' },
+    view_credential: { en: 'View credential', es: 'Ver credencial' },
+  },
 };
 
 export function getLang(lang: Lang, key: string): string {
