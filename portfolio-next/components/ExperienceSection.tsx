@@ -35,7 +35,7 @@ export default function ExperienceSection() {
                 <div className="relative pl-0 md:pl-8">
                   <div className="hidden md:block absolute left-0 top-1.5 w-[15px] h-[15px] rounded-full border-2 border-[#6366f1] bg-white dark:bg-[#0a0a0f] z-10" />
                   <div className="card">
-                    <div className="flex items-start justify-between gap-3 mb-1">
+                    <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-1 sm:gap-3 mb-1">
                       <span className="text-xs font-mono text-[#6366f1] font-medium tracking-wide">{exp.period[lang]}</span>
                       <span className="text-xs font-mono text-neutral-400 dark:text-neutral-500">{exp.company[lang]}</span>
                     </div>

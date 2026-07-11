@@ -227,7 +227,7 @@ export default function GitHubStats() {
         {sortedLangs.length > 0 && (
           <AnimeWrapper delay={200}>
             <div className="card p-6">
-              <h3 className="text-lg font-semibold text-neutral-900 dark:text-white mb-4">
+              <h3 className="text-base md:text-lg font-semibold text-neutral-900 dark:text-white mb-4">
                 {t.github?.languages?.[lang] ?? 'Languages'}
               </h3>
 

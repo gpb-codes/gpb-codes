@@ -34,8 +34,8 @@ export default function Footer() {
 
   return (
     <footer className="border-t border-neutral-200 dark:border-neutral-800 bg-white/50 dark:bg-[#0a0a0f]/50">
-      <div className="container-main py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
+      <div className="container-main py-8 md:py-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 mb-8 md:mb-10">
           <div>
             <h3 className="text-sm font-semibold text-[#1a1a2e] dark:text-white mb-3">Gabriel Pedreros</h3>
             <p className="text-xs text-neutral-500 dark:text-neutral-400 leading-relaxed max-w-xs">

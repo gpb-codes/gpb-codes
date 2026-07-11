@@ -192,7 +192,7 @@ export default function HeroSection() {
             <a href="#contact" className="btn-outline cta-btn">{getInTouch}</a>
           </div>
 
-          <div ref={statsRef} className="flex items-center gap-8 mb-10" style={{ opacity: 0 }}>
+          <div ref={statsRef} className="flex items-center justify-center gap-5 sm:gap-8 flex-wrap mb-8 sm:mb-10" style={{ opacity: 0 }}>
             <div className="flex flex-col items-center">
               <AnimatedCounter target={githubStats.repos} />
               <span className="text-[10px] uppercase tracking-widest text-neutral-400 dark:text-neutral-500 font-mono mt-1">{reposLabel}</span>

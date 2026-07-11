@@ -44,7 +44,7 @@ export default function WhatsAppChat() {
       </button>
 
       <div
-        className={`fixed bottom-24 right-6 z-50 w-80 bg-white dark:bg-[#12121a] border border-neutral-200 dark:border-neutral-800 rounded-2xl shadow-2xl transition-all duration-300 origin-bottom-right ${
+        className={`fixed bottom-24 right-4 sm:right-6 z-50 w-[calc(100vw-2rem)] sm:w-80 max-w-80 bg-white dark:bg-[#12121a] border border-neutral-200 dark:border-neutral-800 rounded-2xl shadow-2xl transition-all duration-300 origin-bottom-right ${
           open ? 'scale-100 opacity-100' : 'scale-75 opacity-0 pointer-events-none'
         }`}
       >

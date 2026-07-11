@@ -112,7 +112,7 @@ export default function GitHubRepos() {
           <div className="h-1 w-12 bg-[#6366f1] rounded-full mt-4 mb-8" />
         </AnimeWrapper>
 
-        <div className="flex gap-2 mb-8">
+        <div className="flex gap-2 mb-5 md:mb-8">
           {(['repos', 'activity'] as const).map((tab) => (
             <button
               key={tab}
