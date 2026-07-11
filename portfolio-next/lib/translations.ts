@@ -69,6 +69,7 @@ export const t = {
   testimonials: {
     label: { en: 'Testimonials', es: 'Testimonios' },
     title: { en: 'What people say.', es: 'Lo que dicen de mi.' },
+    empty: { en: 'No testimonials yet.', es: 'Aun no hay testimonios.' },
   },
   contact: {
     label: { en: 'Contact', es: 'Contacto' },
@@ -145,6 +146,7 @@ export const t = {
     title: { en: 'Continuous learning.', es: 'Aprendizaje continuo.' },
     all: { en: 'All', es: 'Todas' },
     view_credential: { en: 'View credential', es: 'Ver credencial' },
+    empty: { en: 'No certifications yet.', es: 'Aun no hay certificaciones.' },
   },
 };
 

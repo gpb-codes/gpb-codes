@@ -6,7 +6,18 @@ import { useLang } from '@/context/LanguageContext';
 import { t } from '@/lib/translations';
 import CERTIFICATIONS_DATA from '@/data/certifications.json';
 
-export type Certification = (typeof CERTIFICATIONS_DATA)[number];
+export interface Certification {
+  id: number;
+  name: { en: string; es: string };
+  issuer: string;
+  date: string;
+  url?: string;
+  icon: string;
+  category: 'cloud' | 'programming' | 'ai' | 'devops' | 'general';
+  skills: string[];
+}
+
+const CERTIFICATIONS: Certification[] = CERTIFICATIONS_DATA as Certification[];
 
 const CATEGORY_LABELS: Record<string, { en: string; es: string }> = {
   cloud: { en: 'Cloud', es: 'Nube' },
@@ -29,12 +40,12 @@ export default function CertificationsSection() {
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
 
   const categories = Object.keys(CATEGORY_LABELS).filter((cat) =>
-    CERTIFICATIONS_DATA.some((c) => c.category === cat)
+    CERTIFICATIONS.some((c) => c.category === cat)
   );
 
   const filtered = activeCategory
-    ? CERTIFICATIONS_DATA.filter((c) => c.category === activeCategory)
-    : CERTIFICATIONS_DATA;
+    ? CERTIFICATIONS.filter((c) => c.category === activeCategory)
+    : CERTIFICATIONS;
 
   return (
     <section id="certifications" className="py-20 md:py-28">
@@ -76,6 +87,13 @@ export default function CertificationsSection() {
           </div>
         </AnimeWrapper>
 
+        {CERTIFICATIONS.length === 0 ? (
+          <AnimeWrapper delay={80}>
+            <p className="text-center text-neutral-400 dark:text-neutral-500 text-sm py-12">
+              {t.certifications?.empty?.[lang] ?? 'No certifications yet.'}
+            </p>
+          </AnimeWrapper>
+        ) : (
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
           {filtered.map((cert, i) => (
             <AnimeWrapper key={cert.id} delay={i * 60} type="stagger">
@@ -138,6 +156,7 @@ export default function CertificationsSection() {
             </AnimeWrapper>
           ))}
         </div>
+        )}
       </div>
     </section>
   );
