@@ -1,2 +1,14 @@
 [
+  {
+    "id": 1,
+    "quote": {
+      "es": "Tuve el gusto de ser profesora de Gabriel durante su formación en la especialidad de Programación en el Colegio Marista Marcelino Champagnat, en La Pintana. Durante sus años de estudio, Gabriel destacó constantemente por su alta responsabilidad, su genuina preocupación por la excelencia académica y un entusiasmo constante por profundizar en el desarrollo de software. Más allá de sus capacidades técnicas, Gabriel demostró notables habilidades de liderazgo. Actuó como un guía natural para sus compañeros, facilitando la comprensión de los tópicos complejos del curso y fomentando un ambiente de aprendizaje colaborativo. Su proactividad y vocación por la informática lo convierten en un profesional con un gran potencial. Estoy convencida de que su capacidad de trabajo y su disposición para seguir creciendo lo harán un valioso activo para cualquier equipo de desarrollo o proyecto tecnológico que emprenda. Lo recomiendo con total confianza para cualquier desafío profesional en el área.",
+      "en": "I had the pleasure of being Gabriel's teacher during his studies in the Programming specialty at Marcelino Champagnat Marist School in La Pintana. Throughout his years of study, Gabriel consistently stood out for his high responsibility, genuine concern for academic excellence, and constant enthusiasm for delving deeper into software development. Beyond his technical capabilities, Gabriel demonstrated notable leadership skills. He acted as a natural guide for his classmates, facilitating the understanding of complex course topics and fostering a collaborative learning environment. His proactivity and vocation for computer science make him a professional with great potential. I am convinced that his work ethic and willingness to keep growing will make him a valuable asset to any development team or technology project he undertakes. I wholeheartedly recommend him for any professional challenge in the field."
+    },
+    "author": "Macarena Jamett Álvarez",
+    "role": {
+      "es": "Ing. Informático / Profesora de Programación",
+      "en": "Computer Engineer / Programming Teacher"
+    }
+  }
 ]
