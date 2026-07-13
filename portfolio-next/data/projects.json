@@ -13,5 +13,28 @@
     "status": "completed",
     "startDate": "2026-01",
     "endDate": "2026-06"
-  }
+  },
+  {
+  "id": 2,
+  "title": "RFI Platform",
+  "description": "Plataforma multi-tenant para gestionar procesos de Solicitud de Información (RFI), permitiendo crear cuestionarios, invitar proveedores y administrar respuestas mediante una aplicación full stack.",
+  "descriptionEn": "Multi-tenant platform for managing Request for Information (RFI) processes, allowing organizations to create questionnaires, invite suppliers, and manage responses through a full-stack application.",
+  "link": "",
+  "repo": "https://github.com/gpb-codes/rfi-platform.git",
+  "image": "",
+  "tags": [
+    "NestJS",
+    "React",
+    "TypeScript",
+    "PostgreSQL",
+    "TypeORM",
+    "JWT",
+    "Vite"
+  ],
+  "category": "fullstack",
+  "featured": false,
+  "status": "in-progress",
+  "startDate": "2026-07",
+  "endDate": "2026-07"
+}
 ]
