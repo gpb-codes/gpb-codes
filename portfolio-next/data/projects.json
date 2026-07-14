@@ -36,5 +36,39 @@
   "status": "in-progress",
   "startDate": "2026-07",
   "endDate": "2026-07"
+},
+{
+  "id": 3,
+  "title": "DevSactum",
+  "description": "Plataforma social para desarrolladores que centraliza perfiles técnicos, comunidades, publicación de código, networking profesional y oportunidades laborales. Incluye sistema de autenticación, feed con publicaciones, reputación, chat, portafolios, freelancing y bolsa de empleo.",
+  "descriptionEn": "A social platform for developers that centralizes technical profiles, communities, code sharing, professional networking, and career opportunities. Includes authentication, developer feed, reputation system, chat, portfolios, freelancing, and job marketplace features.",
+  "link": "",
+  "repo": "https://github.com/gpb-codes/DevSactum",
+  "technologies": [
+    "Next.js 15",
+    "TypeScript",
+    "Tailwind CSS 4",
+    "Go",
+    "Gin",
+    "NestJS",
+    "TypeORM",
+    "PostgreSQL",
+    "Docker",
+    "JWT"
+  ],
+  "features": [
+    "Autenticación y gestión de usuarios con JWT",
+    "Perfiles técnicos con stack, nivel y GitHub",
+    "Feed de publicaciones con código, tags y likes",
+    "Comunidades para desarrolladores",
+    "Chat y mensajería interna",
+    "Sistema de reputación y ranking",
+    "Bolsa de empleo con postulaciones",
+    "Portafolios profesionales",
+    "Proyectos freelance y propuestas",
+    "Validación técnica de habilidades"
+  ],
+  "category": "Social Platform",
+  "status": "In Development"
 }
 ]
