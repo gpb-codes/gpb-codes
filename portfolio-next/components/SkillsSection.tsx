@@ -33,20 +33,20 @@ const SKILLS = [
     ],
   },
   {
-    categoryKey: 'data',
-    label: { en: 'Data & AI', es: 'Datos e IA' },
+    categoryKey: 'mobile',
+    label: { en: 'Mobile', es: 'Desarrollo Movil' },
     icon: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
     ),
     items: [
-      { name: 'MySQL', icon: `${DEVICON_BASE}/mysql/mysql-original.svg`, desc: { en: 'Schema design, query optimization, indexing, replication, and data modeling.', es: 'Diseno de esquemas, optimizacion de consultas, indexing, replicacion y modelado de datos.' } },
-      { name: 'PostgreSQL', icon: `${DEVICON_BASE}/postgresql/postgresql-original.svg`, desc: { en: 'Advanced queries, JSON/JSONB, full-text search, window functions, and pgvector.', es: 'Consultas avanzadas, JSON/JSONB, busqueda de texto completo, funciones ventana y pgvector.' } },
-      { name: 'RAG & AI', icon: `${DEVICON_BASE}/python/python-original.svg`, desc: { en: 'Vector DBs, embeddings, LLM pipelines, multi-agent systems, and AI automation.', es: 'Bases vectoriales, embeddings, pipelines LLM, sistemas multi-agente y automatizacion con IA.' } },
+      { name: 'Flutter', icon: `${DEVICON_BASE}/flutter/flutter-original.svg`, desc: { en: 'Cross-platform apps for Android, iOS, Web, Windows, macOS and Linux.', es: 'Aplicaciones multiplataforma para Android, iOS, Web, Windows, macOS y Linux.' } },
+      { name: 'Dart', icon: `${DEVICON_BASE}/dart/dart-original.svg`, desc: { en: 'Modern language for building performant cross-platform applications.', es: 'Lenguaje moderno para desarrollar aplicaciones multiplataforma de alto rendimiento.' } },
+      { name: 'Android', icon: `${DEVICON_BASE}/android/android-original.svg`, desc: { en: 'Android SDK integration, permissions, notifications and native features.', es: 'Integracion con Android SDK, permisos, notificaciones y caracteristicas nativas.' } },
     ],
   },
   {
     categoryKey: 'devops',
-    label: { en: 'DevOps & Tools', es: 'DevOps y Herramientas' },
+    label: { en: 'Cloud & DevOps', es: 'Cloud y DevOps' },
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></svg>
     ),
@@ -54,6 +54,21 @@ const SKILLS = [
       { name: 'Docker', icon: `${DEVICON_BASE}/docker/docker-original.svg`, desc: { en: 'Containerization, multi-stage builds, Docker Compose, and container orchestration.', es: 'Contenerizacion, builds multi-etapa, Docker Compose y orquestacion de contenedores.' } },
       { name: 'GitHub Actions', icon: `${DEVICON_BASE}/github/github-original.svg`, desc: { en: 'CI/CD pipelines, automated testing, deployment automation, and workflow orchestration.', es: 'Pipelines CI/CD, testing automatizado, automatizacion de depliegues y orquestacion de workflows.' } },
       { name: 'Cloudflare', icon: `${DEVICON_BASE}/cloudflare/cloudflare-original.svg`, desc: { en: 'Pages, Workers, DNS management, CDN, DDoS protection, and edge functions.', es: 'Pages, Workers, gestion de DNS, CDN, proteccion DDoS y funciones edge.' } },
+      { name: 'Git', icon: `${DEVICON_BASE}/git/git-original.svg`, desc: { en: 'Version control, collaborative workflows, and source code management.', es: 'Control de versiones, flujos colaborativos y gestion del codigo fuente.' } },
+      { name: 'Linux', icon: `${DEVICON_BASE}/linux/linux-original.svg`, desc: { en: 'Arch Linux, shell scripting, server administration, and development environments.', es: 'Arch Linux, scripting shell, administracion de servidores y entornos de desarrollo.' } },
+    ],
+  },
+  {
+    categoryKey: 'data-ai',
+    label: { en: 'Data & AI', es: 'Datos e IA' },
+    icon: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
+    ),
+    items: [
+      { name: 'PostgreSQL', icon: `${DEVICON_BASE}/postgresql/postgresql-original.svg`, desc: { en: 'Advanced SQL, JSONB, indexing, full-text search and pgvector.', es: 'SQL avanzado, JSONB, indexacion, busqueda de texto completo y pgvector.' } },
+      { name: 'MySQL', icon: `${DEVICON_BASE}/mysql/mysql-original.svg`, desc: { en: 'Relational databases, optimization and transactional systems.', es: 'Bases de datos relacionales, optimizacion y sistemas transaccionales.' } },
+      { name: 'Redis', icon: `${DEVICON_BASE}/redis/redis-original.svg`, desc: { en: 'Caching, queues, pub/sub and in-memory data storage.', es: 'Cache, colas, pub/sub y almacenamiento en memoria.' } },
+      { name: 'RAG & AI', icon: `${DEVICON_BASE}/python/python-original.svg`, desc: { en: 'LLMs, RAG, AI agents, embeddings, and intelligent automation.', es: 'LLMs, RAG, agentes de IA, embeddings y automatizacion inteligente.' } },
     ],
   },
 ];

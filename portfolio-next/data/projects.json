@@ -44,6 +44,7 @@
   "descriptionEn": "A social platform for developers that centralizes technical profiles, communities, code sharing, professional networking, and career opportunities. Includes authentication, developer feed, reputation system, chat, portfolios, freelancing, and job marketplace features.",
   "link": "",
   "repo": "https://github.com/gpb-codes/DevSactum",
+  "image": "https://github.com/gpb-codes/DevSactum/blob/main/logo%20devsactum%20favicon.png",
   "tags": [
     "Next.js",
     "TypeScript",
@@ -54,7 +55,14 @@
     "TypeORM",
     "PostgreSQL",
     "Docker",
-    "JWT"
+    "JWT",
+    "Flutter",
+    "Dart",
+    "React Native",
+    "Android",
+    "iOS",
+    "MinIO",
+    "RabbitMQ"
   ],
   "category": "fullstack",
   "featured": false,
