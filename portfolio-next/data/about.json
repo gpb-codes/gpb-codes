@@ -1,11 +1,39 @@
 {
   "location": "Santiago, Chile",
   "focus": {
-    "en": ["Full Stack", "AI Systems", "Automation", "Product Design", "DevOps"],
-    "es": ["Full Stack", "Sistemas de IA", "Automatizacion", "Diseno de Producto", "DevOps"]
+    "en": [
+      "Full Stack Development",
+      "Mobile Development",
+      "AI Engineering",
+      "Software Architecture",
+      "Cloud & DevOps",
+      "Automation"
+    ],
+    "es": [
+      "Desarrollo Full Stack",
+      "Desarrollo Móvil",
+      "Ingeniería de IA",
+      "Arquitectura de Software",
+      "Cloud y DevOps",
+      "Automatización"
+    ]
   },
   "values": {
-    "en": ["Clean code over clever code", "Automate everything repetitive", "Learn by building", "Open source by default"],
-    "es": ["Codigo limpio sobre codigo ingenioso", "Automatizar todo lo repetitivo", "Aprender construyendo", "Open source por defecto"]
+    "en": [
+      "Clean code over clever code",
+      "Build scalable systems",
+      "Automate repetitive work",
+      "Learn by building",
+      "Open source first",
+      "Continuous improvement"
+    ],
+    "es": [
+      "Código limpio sobre código ingenioso",
+      "Construir sistemas escalables",
+      "Automatizar el trabajo repetitivo",
+      "Aprender construyendo",
+      "Open source primero",
+      "Mejora continua"
+    ]
   }
 }

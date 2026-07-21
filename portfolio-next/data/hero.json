@@ -1,15 +1,33 @@
 {
   "stack": [
-    { "name": "Next.js", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" },
-    { "name": "NestJS", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" },
-    { "name": "Go", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" },
-    { "name": "TailwindCSS", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" },
-    { "name": "MySQL", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
-    { "name": "TypeScript", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" }
+    {
+      "name": "Next.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "NestJS",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+    },
+    {
+      "name": "Go",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+    },
+    {
+      "name": "Tailwind CSS",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "name": "MySQL",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    }
   ],
   "name": "Gabriel Pedreros",
   "desc": {
-  "en": "I design and build modern digital products, combining scalable backend architectures with <strong>NestJS</strong> and <strong>Go</strong>, high-performance interfaces powered by <strong>Next.js</strong> and <strong>Tailwind CSS</strong>, and reliable data solutions built on <strong>MySQL</strong>.",
-  "es": "Diseño y desarrollo productos digitales modernos, combinando arquitecturas backend escalables con <strong>NestJS</strong> y <strong>Go</strong>, interfaces de alto rendimiento impulsadas por <strong>Next.js</strong> y <strong>Tailwind CSS</strong>, y soluciones de datos confiables basadas en <strong>MySQL</strong>."
-}
+    "en": "I design and build scalable digital products, creating robust backend services with <strong>NestJS</strong> and <strong>Go</strong>, fast and responsive user experiences with <strong>Next.js</strong> and <strong>Tailwind CSS</strong>, and reliable data-driven solutions powered by <strong>MySQL</strong> and <strong>TypeScript</strong>.",
+    "es": "Diseño y desarrollo productos digitales escalables, creando servicios backend robustos con <strong>NestJS</strong> y <strong>Go</strong>, experiencias web rápidas y responsivas con <strong>Next.js</strong> y <strong>Tailwind CSS</strong>, y soluciones orientadas a datos utilizando <strong>MySQL</strong> y <strong>TypeScript</strong>."
+  }
 }
